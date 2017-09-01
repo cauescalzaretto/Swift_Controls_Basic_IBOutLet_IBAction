@@ -1,4 +1,4 @@
-# Swift_Controls_Basic_IBOutLet_IBAction
+# Swift Controls Basic IBOutLet IBAction
 
 Quando trabalhanmos com properties que referenciam objetos de interface precisamos utilizar o prefixo IBOutlet para que tenhamos acesso a ligação do mesmo.
 
